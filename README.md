@@ -1,5 +1,7 @@
 # Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-My name is Vanya Verma
+*My name is Vanya Verma*
+
+*I'm a budding Cybersecurity enthusiast*
 
 - 🔭 I’m currently working on improving my overall technical skills.
 - 💡 I’m currently learning android development using Kotlin.
