@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi There 👋 My name is Vanya Verma
 
-<!--
-**vanya31/vanya31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on improving my overall technical skills.
+- 💡 I’m currently learning android development using Kotlin.
+- 📫 How to reach me:
+- [vanya.verma31@gmail.com](https://mail.google.com/mail/u/0/#inbox)--->Gmail
+- [Vanya Verma](https://www.linkedin.com/in/vanya-verma-196b511b8/)--->LinkedIn
+- 😄 Pronouns:She/Her
+- ⚡ Fun fact: It is physically impossible for pigs to look up into the sky 🐷
+- 📃My Resume: [Resume](https://drive.google.com/file/d/1Y96hDgxZNn3I4flMo8H95mzG5wlcXBum/view?usp=sharing)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=vanya31)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vanya31)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanya31)](https://github.com/vanya31/github-readme-stats)
