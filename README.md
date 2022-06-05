@@ -1,5 +1,7 @@
-# Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
-*My name is Vanya Verma*
+<h1 align="center">Hi There !<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Vanya Verma </h1>
 
 *I'm a budding Cybersecurity enthusiast 👩‍💻*
 
