@@ -35,4 +35,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanya31&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
+![snake gif](https://github.com/vanya31/vanya31/blob/output/github-contribution-grid-snake.gif)
 
