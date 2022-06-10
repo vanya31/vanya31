@@ -29,9 +29,9 @@
 
 
 
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=vanya31&count_private=true&theme=material-palenight&show_icons=true" />
+<img align="center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=vanya31&count_private=true&theme=material-palenight&show_icons=true" />
 
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vanya31&theme=material-palenight">
+<img align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vanya31&theme=material-palenight">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanya31&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
