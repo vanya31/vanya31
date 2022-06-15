@@ -6,7 +6,7 @@
 *I'm a budding Cybersecurity enthusiast 👩‍💻*
 
 - 🔭 I’m currently working on improving my overall technical skills.
-- 💡 I’m currently learning android development using Kotlin.
+- 💡 I’m currently learning app development with flutter.
 
 - 📃My Resume: [Resume](https://drive.google.com/file/d/1Y96hDgxZNn3I4flMo8H95mzG5wlcXBum/view?usp=sharing)
 
