@@ -39,6 +39,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanya31&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vanya31&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
