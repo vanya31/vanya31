@@ -1,6 +1,5 @@
-<img src="https://www.arthur-mckay.com/wp-content/uploads/sites/5/2017/12/Cyber-security-web-banner.jpg"
-     height = "200"
-     width= "1000">
+<img src="https://renvecpress.files.wordpress.com/2019/01/fantasyforestbanner.jpg" height="200" width="900"
+     >
 <h1 align="center">Hi There !<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
          alt="Waving hand animated gif"
          height="45"
@@ -9,7 +8,7 @@
 *I'm a budding Cybersecurity enthusiast 👩‍💻*
 
 - 🔭 I’m currently working on improving my overall technical skills.
-- 💡 I’m currently learning app development with flutter.
+- 💡 I’m currently learning  Front End Development.
 
 - 📃My Resume: [Resume](https://drive.google.com/file/d/1Y96hDgxZNn3I4flMo8H95mzG5wlcXBum/view?usp=sharing)
 
@@ -29,6 +28,11 @@
 <br/>
 
 
+### MY TECH STACK:
+|                 |           |
+| --------------- | --------- |
+| **Front End Development** | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+| **Languages And Tools** | <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python3" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a><a href="https://www.w3schools.com/flutter/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> |
 
 
 
@@ -36,7 +40,7 @@
 
 <img align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vanya31&theme=material-palenight">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanya31&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
