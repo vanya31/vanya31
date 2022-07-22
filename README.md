@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on improving my overall technical skills.
 - 💡 I’m currently learning  Front End Development.
 
-- 📃My Resume: [Resume](https://drive.google.com/file/d/1Y96hDgxZNn3I4flMo8H95mzG5wlcXBum/view?usp=sharing)
+- 📃My Resume: [Resume](https://drive.google.com/file/d/1_8oc51Vwj3fMeN-7ShDS8fJN-2dcFDTM/view?usp=sharing)
 
 
 
