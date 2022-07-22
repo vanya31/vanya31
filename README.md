@@ -5,7 +5,7 @@
          height="45"
          width="45" /> I'm Vanya Verma </h1>
 
-*I'm a budding Cybersecurity enthusiast 👩‍💻*
+*I'm a budding Front End enthusiast 👩‍💻*
 
 - 🔭 I’m currently working on improving my overall technical skills.
 - 💡 I’m currently learning  Front End Development.
