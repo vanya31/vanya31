@@ -41,6 +41,8 @@
 
 <img align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vanya31&theme=material-palenight">
 
+[![@chonkii's Holopin board](https://holopin.io/api/user/board?user=chonkii)](https://holopin.io/@chonkii)
+
 
 
 
