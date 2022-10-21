@@ -4,6 +4,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Vanya Verma </h1>
+         <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
 
 *I'm a budding Front End enthusiast 👩‍💻*
 
@@ -11,6 +12,7 @@
 - 💡 I’m currently learning  Front End Development.
 
 - 📃My Resume: [Resume](https://drive.google.com/file/d/1aMp9pwXqYG4-O0Rtz0IHgHmYiReJUxpJ/view?usp=sharing)
+
 
 
 
@@ -42,6 +44,8 @@
 <img align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vanya31&theme=material-palenight">
 
 [![@chonkii's Holopin board](https://holopin.io/api/user/board?user=chonkii)](https://holopin.io/@chonkii)
+
+
 
 
 
