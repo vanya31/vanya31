@@ -6,7 +6,7 @@
          width="45" /> I'm Vanya Verma </h1>
          <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
 
-*I'm a budding Front End enthusiast 👩‍💻*
+*I'm a Creative Front End Developer 👩‍💻*
 
 - 🔭 I’m currently working on improving my overall technical skills.
 - 💡 I’m currently learning  Front End Development.
